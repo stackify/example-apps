@@ -1,0 +1,5 @@
+{
+  "AppName": "Stackify Sample Dotnet App",
+  "Environment": "My Environment",
+  "CaptureAllExceptions": true
+}
